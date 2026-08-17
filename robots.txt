@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ibl2g4.indowin.cfd/sitemap.xml
